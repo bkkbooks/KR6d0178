@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR6d0178/v1
+canonical_location: https://kanripo.org/bkk/KR6d0178/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛錍科
+  identifiers:
+    alt_id:
+    - X56n0934
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0934.xml
+    old_id: X56n0934
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0178_000.yaml, hash: 'sha256:2f7413446a5b29231307a800b41a216abc4ba65091e301d3f7f108dfb54981a0'}
+  - {seq: 1, filename: KR6d0178_001.yaml, hash: 'sha256:6dded7a262d2851eed815ede2d2f782e58d68686843acbdc4c200e4aef61e79a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0178_000.markers.yaml, hash: 'sha256:0c944318b387d8e23d3db012f688f7baab8fe05b438cd9cde5ac6a9676a1f8a2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0178_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0178_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 572
+  label: 金剛錍文句科
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0178_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 金剛錍文句科
+  type: mulu
+  level: 1
+hash: sha256:183916506415747047d4b1ba113dca5ba42257dd2ea6476ccdd328f6869bd7ea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: X
