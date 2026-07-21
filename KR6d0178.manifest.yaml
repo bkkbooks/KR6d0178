@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6d0178_000.yaml, hash: 'sha256:ad50530f128f9ceceabdfc67890c9952ededb984d9a0b2f2aab59fd8161d2d35'}
+  - {seq: 0, filename: KR6d0178_000.yaml, hash: 'sha256:3352732c5a86d54f0951ed54a82b72fed8ac11ed7a68a2bc36610e53dfa83005'}
   - {seq: 1, filename: KR6d0178_001.yaml, hash: 'sha256:6dded7a262d2851eed815ede2d2f782e58d68686843acbdc4c200e4aef61e79a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0178_000.markers.yaml, hash: 'sha256:6de9ae3b805f40ba53b3eb957d5cea7bbc11d268160807664ac529b56e81de7a'}
+  - {seq: 0, role: markers, filename: assets/KR6d0178_000.markers.yaml, hash: 'sha256:2bb927dba2982ece1533af19a9d74a925c87c5f99fc782276265be006c02f00a'}
   - {seq: 1, role: markers, filename: assets/KR6d0178_001.markers.yaml, hash: 'sha256:ef7738c6ac27616b9589c49def11c22bcd60a907e5e0b3e3a3a64c54ec181a48'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0178_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -52,7 +52,7 @@ table_of_contents:
   label: 金剛錍文句科
   type: mulu
   level: 1
-hash: sha256:83a86653c09b87095cd7c81869fe8d419115dc3e844f6261538c836bc871545d
+hash: sha256:9458b8d9cd078d874939be45c701ae1853949517c05867996fdbdf26b9926b0c
 editions:
 - short: X
 mappings:
